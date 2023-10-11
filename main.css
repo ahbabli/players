@@ -3,7 +3,8 @@ body{
 
 }
 .navbar{
-    background-color: #301b10;
+    background: rgb(61,38,25);
+    background: radial-gradient(circle, rgba(61,38,25,1) 0%, rgba(48,27,16,1) 100%);
 }
 .main .text1 {
     color: #907a6e;
