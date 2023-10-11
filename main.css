@@ -1,0 +1,48 @@
+body{
+
+
+}
+.navbar{
+    background-color: #301b10;
+}
+.main .text1 {
+    color: #907a6e;
+}
+.container .box1{
+    background-color: #fae5da;
+}
+.container .box1 p{
+    color: #ab8e80;
+}
+.container .box2 h1{
+    color: #0e1c00;
+}
+.container .box1 hr{
+    border-color: #c2a89c;
+    
+    
+}
+.container .box1 span{
+    font-weight: bold;
+    
+    
+}
+.container .box2{
+    background-color: #edf3dd;
+}
+.container .box2 p{
+    color: #8e9776;
+}
+.container .box1 h1{
+    color: #442616;
+}
+.container .box2 hr{
+    border-color: #c2a89c;
+    
+    
+}
+.container .box2 span{
+    font-weight: bold;
+    
+    
+}
